@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NavigationActivity">
+
+    <ImageView
+        android:id="@+id/imageUser"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="80dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/leroy_merlin_logo"
+        tools:srcCompat="@drawable/leroy_merlin_logo" />
+
+    <Switch
+        android:id="@+id/mainLayoutSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="236dp"
+        android:minHeight="48dp"
+        android:text="Основное меню?"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.977" />
+
+    <Button
+        android:id="@+id/adminButton"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="32dp"
+        android:text="Админ"
+        android:onClick="onClickAdminActivity"
+        app:layout_constraintEnd_toEndOf="@+id/registerOfOrder"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/registerOfOrder"
+        app:layout_constraintTop_toBottomOf="@+id/registerOfOrder" />
+
+    <Button
+        android:id="@+id/statisticButton"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="32dp"
+        android:text="Статистика"
+        android:onClick="onClickStatisticActivity"
+        app:layout_constraintEnd_toEndOf="@+id/pickUpButton"
+        app:layout_constraintStart_toStartOf="@+id/pickUpButton"
+        app:layout_constraintTop_toBottomOf="@+id/pickUpButton" />
+
+    <Button
+        android:id="@+id/pickUpButton"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="168dp"
+        android:text="Развоз заказов"
+        android:onClick="onClickPickUpActivity"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageUser" />
+
+    <Button
+        android:id="@+id/registerOfOrder"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="60dp"
+        android:text="Реестр заказов"
+        android:onClick="onClickRegisterOfOrderActivity"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/pickUpButton"
+        app:layout_constraintTop_toTopOf="@+id/pickUpButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

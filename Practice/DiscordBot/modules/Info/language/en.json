@@ -1,0 +1,33 @@
+{
+    "bot": [
+        "Information about the bot",
+        "The bot was created for the Discord server {ctx.guild.name}",
+        "**Creator:**",
+        "**Version:**",
+        "**Updated:**",
+        "**The bot is written in:**",
+        "Discord.py",
+        "**Techsupport:**",
+        "vladimir75vov@mail.ru",
+        "To get additional information about: Bot - 📕, Server - 📘, User - 📗"
+    ],
+    "botServer": [
+        "Advanced server information",
+        ":timer: Server created",
+        ":briefcase: Total roles:",
+        ":slight_smile: People on the server",
+        "**Statuses**",
+        ":green_circle: Online:",
+        ":yellow_circle: Moved:",
+        ":red_circle: Do not touch:",
+        ":black_circle: Offline:",
+        "**Channels**",
+        ":musical_keyboard: Total channels:",
+        ":loud_sound: Voice channel:",
+        ":keyboard: Text channels:",
+        "**Technical**",
+        ":flag_white: Region",
+        ":tools: Bots on the server:",
+        ":shield: The level of verification:"
+    ]
+}

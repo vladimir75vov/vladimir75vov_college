@@ -1,0 +1,60 @@
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.exe
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.deps.json
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.runtimeconfig.json
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.runtimeconfig.dev.json
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.dll
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\ref\Authorization Form.dll
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.pdb
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.csproj.AssemblyReference.cache
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form_MarkupCompile.cache
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form_MarkupCompile.lref
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\App.baml
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.g.resources
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.AssemblyInfoInputs.cache
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.AssemblyInfo.cs
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.csproj.CoreCompileInputs.cache
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.dll
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\ref\Authorization Form.dll
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.pdb
+C:\Users\vladimir75vov\source\repos\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.genruntimeconfig.cache
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.exe
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.deps.json
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.runtimeconfig.json
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.runtimeconfig.dev.json
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\ref\Authorization Form.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Authorization Form.pdb
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.csproj.AssemblyReference.cache
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form_MarkupCompile.cache
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form_MarkupCompile.lref
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\App.baml
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.g.resources
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.AssemblyInfoInputs.cache
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.AssemblyInfo.cs
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.csproj.CoreCompileInputs.cache
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\ref\Authorization Form.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.pdb
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\Authorization Form.genruntimeconfig.cache
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\AuthWindow.g.cs
+C:\Users\vladimir75vov\Desktop\  \Project\GitHub\Vladimir_Budaev_195\Practice\WPF\Authorization Form\Authorization Form\obj\Debug\net5.0-windows\AuthWindow.baml

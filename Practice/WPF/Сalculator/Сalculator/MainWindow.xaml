@@ -1,0 +1,57 @@
+﻿<Window x:Class="Сalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Сalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="mainForm">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="textBlockOutput" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="5" TextAlignment="Right" FontFamily="Segoe UI Black" Text="" FontSize="28"/>
+
+        <Button x:Name="buttonLeftBracket" Grid.Column="0" Grid.Row="2" Content="("/>
+        <Button x:Name="buttonSeven" Grid.Column="0" Grid.Row="3" Content="7"/>
+        <Button x:Name="buttonFour" Grid.Column="0" Grid.Row="4" Content="4"/>
+        <Button x:Name="buttonOne" Grid.Column="0" Grid.Row="5" Content="1"/>
+        <Button x:Name="buttonZero" Grid.Column="0" Grid.Row="6" Content="0"/>
+
+        <Button x:Name="buttonСomma" Grid.Column="1" Grid.Row="2" Content=","/>
+        <Button x:Name="buttonEight" Grid.Column="1" Grid.Row="3" Content="8"/>
+        <Button x:Name="buttonFive" Grid.Column="1" Grid.Row="4" Content="5"/>
+        <Button x:Name="buttonTwo" Grid.Column="1" Grid.Row="5" Content="2"/>
+        <Button x:Name="buttonPlusAndMinus" Grid.Column="1" Grid.Row="6" Content="±"/>
+
+        <Button x:Name="buttonRightBracket" Grid.Column="2" Grid.Row="2" Content=")"/>
+        <Button x:Name="buttonNine" Grid.Column="2" Grid.Row="3" Content="9"/>
+        <Button x:Name="buttonSix" Grid.Column="2" Grid.Row="4" Content="6"/>
+        <Button x:Name="buttonThree" Grid.Column="2" Grid.Row="5" Content="3"/>
+        <Button x:Name="buttonPoint" Grid.Column="2" Grid.Row="6" Content="."/>
+
+        <Button x:Name="buttonEquivalent" Grid.Column="3" Grid.Row="2" Content="⇆"/>
+        <Button x:Name="buttonDivision" Grid.Column="3" Grid.Row="3" Content="÷"/>
+        <Button x:Name="buttonMultiplication" Grid.Column="3" Grid.Row="4" Content="X"/>
+        <Button x:Name="buttonMinus" Grid.Column="3" Grid.Row="5" Content="-"/>
+        <Button x:Name="buttonPlus" Grid.Column="3" Grid.Row="6" Content="+"/>
+
+        <Button x:Name="buttonRemoveOnePosition" Grid.Column="4" Grid.Row="2" Content="⇦"/>
+        <Button x:Name="buttonClean" Grid.Column="4" Grid.Row="3" Content="C"/>
+        <Button x:Name="buttonEqually" Grid.Column="4" Grid.Row="4" Grid.RowSpan="3" Content="="/>
+
+    </Grid>
+</Window>

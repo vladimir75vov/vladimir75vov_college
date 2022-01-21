@@ -1,0 +1,23 @@
+{
+    "load":[
+        "The module is loaded -",
+        "Access error! Not enough rights.",
+        "Module",
+        "successfully uploaded!",
+        "An error occurred. Module: load\n\rExtension:"
+    ],
+    "unload":[
+        "Unloaded the module -",
+        "Access error! Not enough rights.",
+        "Module",
+        "successfully uploaded!",
+        "An error occurred. Module: unload\n\rExtension:"
+    ],
+    "reload":[
+        "Restart the module -",
+        "Access error! Not enough rights.",
+        "Module",
+        "successfully rebooted!",
+        "An error occurred. Module: reload\n\rExtension:"
+    ] 
+}

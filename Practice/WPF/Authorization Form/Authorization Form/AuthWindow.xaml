@@ -1,0 +1,28 @@
+﻿<Window x:Class="Authorization_Form.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Authorization_Form"
+        mc:Ignorable="d"
+        Title="AuthWindow" Height="450" Width="800">
+    <Grid Background="#ffdadada">
+        <Border MinWidth="400" Margin="15" Background="white" VerticalAlignment="center" Padding="30" MaxWidth="550" CornerRadius="20">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="lightgray" ShadowDepth="0"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Авторизация" FontSize="30" FontWeight="bold" Margin="0 0 0 20" />
+                <TextBlock x:Name="exampleText"  FontWeight="bold" Margin="0 0 0 20" />
+                <Grid Margin="0 0 0 20">
+                    <Button HorizontalAlignment="left" Content="Регистрация" Click="Button_Reg_Click"/>
+                    <Button HorizontalAlignment="right" Content="Войти"  Style="{StaticResource MaterialDesignFlatButton}"/>
+                </Grid>
+                <TextBox x:Name="textboxLogin" materialDesign:HintAssist.Hint="Введите логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <PasswordBox x:Name="passwordBoxPass" materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+                <Button Content="Войти в кабинет" Margin="0 20" Click="Button_Auth_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
